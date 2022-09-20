@@ -43,3 +43,10 @@ Install [Ubuntu](https://www.microsoft.com/store/productId/9PDXGNCFSCZV) subsyst
 ## Microsoft Office
 
 Connect on [Microsoft Office](https://portal.office.com) and "Install Office" by clicking the button on the top right corner.
+
+## Misc
+
+You can also install :
+- Zoom
+- Adobe Acrobate Reader
+- Logitech G Hub
